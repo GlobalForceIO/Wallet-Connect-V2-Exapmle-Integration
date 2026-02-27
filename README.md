@@ -1,6 +1,7 @@
 # GlobalForce WalletConnect Demo (Web)
 
 Demo website built with React + Vite, integrating `globalforce-wallet-plugin` through WharfKit.
+
 You can find an example of how this can be implemented in this [repository](https://github.com/GlobalForceIO/Wallet-Connect-V2-Exapmle-Integration).
 ## Implemented Features
 
