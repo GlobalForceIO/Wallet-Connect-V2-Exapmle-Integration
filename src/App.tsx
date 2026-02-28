@@ -21,7 +21,7 @@ interface LogEntry {
 }
 
 const initialTransfer: TransferInput = {
-  to: 'gf.dex',
+  to: 'gf',
   quantity: '0.1000 GFT',
   memo: 'Transfer from web dApp',
 }
@@ -238,7 +238,7 @@ function App() {
               onChange={(event) =>
                 setTransfer((current) => ({ ...current, to: event.target.value.trim() }))
               }
-              placeholder="gf.dex"
+              placeholder="gf"
             />
           </label>
 
