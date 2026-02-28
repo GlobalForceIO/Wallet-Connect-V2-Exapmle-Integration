@@ -1,6 +1,8 @@
 # WalletConnect Web Integration (GlobalForce Wallet)
 
-This document explains how to connect WalletConnect to a web project (if you need a custom solution in another programming language, contact us by email: `mail`).
+You can find an example of how this can be implemented in this [repository](https://github.com/GlobalForceIO/Wallet-Connect-V2-Exapmle-Integration).
+
+This document explains how to connect WalletConnect to a web project (if you need a custom solution in another programming language, contact us by email: `office@swisstechcorp.com`).
 
 - `globalforce-wallet-plugin` - wallet plugin for WharfKit
 - `react-globalforce-frontend` - working frontend example
@@ -351,7 +353,7 @@ import {
 
 ### CORS and Proxy
 
-- If the server and website are on different domains, verify CORS/Reverse Proxy settings. If you run into issues, contact us by email: `mail`.
+- If the server and website are on different domains, verify CORS/Reverse Proxy settings. If you run into issues, contact us by email: `office@swisstechcorp.com`.
 
 ## 9. What the Plugin Handles Automatically
 
